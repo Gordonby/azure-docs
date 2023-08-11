@@ -15,7 +15,7 @@ OSM runs an Envoy-based control plane on Kubernetes and can be configured with [
 Microsoft started the OSM project, but it's now governed by the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/).
 
 > [!IMPORTANT]
-> The OSM project has been [archived](https://openservicemesh.io/blog/osm-project-update/). Consider the [Istio-based service mesh add-on for AKS](https://learn.microsoft.com/azure/aks/istio-about) instead. 
+> The OSM project has been [archived](https://openservicemesh.io/blog/osm-project-update/). Consider the [Istio-based service mesh add-on for AKS](./istio-about) instead. 
 
 ## Enable the OSM add-on
 
